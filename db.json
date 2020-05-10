@@ -1,7 +1,9 @@
-[
+{
+  [
    {
       "title":"My first post",
       "excerpt":"This is my first post with more content inside",
       "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2B-pgr_KYqPngRMJnH5TGDy-RRgCpiLu31zJesO9_unTVrOfU&usqp=CAU"
    }
-]
+  ]
+}
